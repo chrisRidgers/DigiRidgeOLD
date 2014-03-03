@@ -101,14 +101,14 @@ facebook_like: false
 
 mini_magick:
         gallery_1_thumbnail:
-                source: images/galleries/test_gallery/
+                source: images/galleries/test_gallery
                 destination: images/galleries/test_gallery/thumbs
                 commands:
-                        - thumbnail "140x140^"
-                        - crop "140x140-0x0"
+                        - thumbnail: "140x140^"
+                        - crop: "140x140-0x0"
         gallery_1_medium:
-                source: images/galleries/test_gallery/
+                source: images/galleries/test_gallery
                 destination: images/galleries/test_gallery/medium
                 commands:
-                        - thumbnail "600x400^"
+                        - resize: "600x400"
                 

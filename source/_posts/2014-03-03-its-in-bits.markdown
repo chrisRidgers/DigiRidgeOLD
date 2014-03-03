@@ -8,7 +8,7 @@ categories:
 
 As I write this I'm flicking between 6 different things:
 this website, learning Octopress, learning ruby, university project A,
-university project & and Season 1 of Game of Thrones.  It is 01:46 in the
+university project B and Season 1 of Game of Thrones.  It is 01:46 in the
 morning and I have a Doctors appointment at 09:00: this is my life...
 
 <!-- more -->

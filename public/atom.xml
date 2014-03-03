@@ -4,7 +4,7 @@
   <title><![CDATA[DigiRidge]]></title>
   <link href="http://www.chris.digiridge.co.uk/atom.xml" rel="self"/>
   <link href="http://www.chris.digiridge.co.uk/"/>
-  <updated>2014-03-03T01:36:03+00:00</updated>
+  <updated>2014-03-03T02:05:11+00:00</updated>
   <id>http://www.chris.digiridge.co.uk/</id>
   <author>
     <name><![CDATA[Chris Ridgers]]></name>
@@ -12,5 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[It's in Bits]]></title>
+    <link href="http://www.chris.digiridge.co.uk/blog/2014/03/03/its-in-bits/"/>
+    <updated>2014-03-03T01:40:39+00:00</updated>
+    <id>http://www.chris.digiridge.co.uk/blog/2014/03/03/its-in-bits</id>
+    <content type="html"><![CDATA[<p>As I write this I&rsquo;m flicking between 6 different things:
+this website, learning Octopress, learning ruby, university project A,
+university project &amp; and Season 1 of Game of Thrones.  It is 01:46 in the
+morning and I have a Doctors appointment at 09:00: this is my life&hellip;</p>
+
+<!-- more -->
+
+
+<p>&hellip; and it&rsquo;s in bits.</p>
+
+<p>This site is (hopefully) going to turn into a fair representation of who I am,
+offering potential employers/ anyone a deeper look into my life then can be
+fairly represented on a C.V.  Part of this however means juggling several
+very different things at once, this site represents the face of my first foray
+into Cloud PaaS&#8217; as well as my first time publicly promoting my work which until
+now I&rsquo;ve always been contented to keeping to myself.</p>
+
+<p>I&rsquo;ve linked my Github account which documents a fair chunk of the things I do, and
+as this site pulls together, I&rsquo;ll include some of the other pieces of work I&rsquo;ve enjoyed
+completing; it&rsquo;s quite an eclectic mix, not least because since my college days my
+general attitude has been &lsquo;do everything.&rsquo;  As much as the idea of specialising into an
+area of computing sounds attractive, I can&rsquo;t help but feel a sense of unease at the
+thought that by doing so I&rsquo;ll limit my ability to complete a fully polished piece of work.</p>
+
+<p>Such is the point of teams though is it not?  I have my own thoughts on this that I&rsquo;ll
+almost definitely talk about in a later post, but for now, this will suffice for a first post.</p>
+
+<p>It&rsquo;s something that I can look and smile at.  A starting point for what I hope to be a very
+satisfying project.</p>
+
+<p>Projects&hellip;. Game of Thrones&hellip;.. Bed&hellip;..</p>
+]]></content>
+  </entry>
   
 </feed>

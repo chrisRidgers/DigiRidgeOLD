@@ -110,5 +110,5 @@ mini_magick:
                 source: images/galleries/test_gallery/
                 destination: images/galleries/test_gallery/medium
                 commands:
-                        - thumbnail "600x4-0^"
+                        - thumbnail "600x400^"
                 

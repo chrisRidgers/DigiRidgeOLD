@@ -102,7 +102,7 @@ facebook_like: false
 mini_magick:
         gallery_1_thumbnail:
                 source: images/galleries/test_gallery/
-                destination: images/galleries/test_gallery//thumbs
+                destination: images/galleries/test_gallery/thumbs
                 commands:
                         - thumbnail "140x140^"
                         - crop "140x140-0x0"

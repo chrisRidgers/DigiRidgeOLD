@@ -1,2 +1,13 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+
+.btn {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  width: 144px;
+  height: 25px;
+  z-index: 700;
+  border: 0;
+}

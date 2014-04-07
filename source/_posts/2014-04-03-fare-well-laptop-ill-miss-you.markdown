@@ -6,7 +6,6 @@ comments: true
 categories: [crime, people, police]
 keywords: "macbook pro, theft, McDonald's, police, Liverpool, Merseyside, report, sorrow"
 description: "A not incompletely biased account regarding my recent hardship while visiting Liverpool"
-published: false
 ---
 
 Two weeks ago today I had my laptop stolen while visiting my girlfriend in Liverpool.  Which is great.  Since then I've been doing all the regular stuff you do when your stuff gets nicked as well carrying on with my degree stuff, but it hasn't been a fun process to go through; particularly regarding police involvement.  I feel bad even typing this, but at this point I may as well put it out there and let anyone that reads this make up their own minds about whether or not the response has been reasonable.  So here it is...

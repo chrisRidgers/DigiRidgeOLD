@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow: /error/
 
 Sitemap: http://www.chris.digiridge.co.uk/sitemap.xml 

@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div>
+<div class="full-single-article">
+<div class="col-md-8 col-md-offset-2">
 <article role="article">
   {% if page.title %}
   <header>
@@ -31,6 +32,8 @@ layout: default
   </section>
 {% endif %}
 </div>
+</div>
+<!--
 {% unless page.sidebar == false %}
 <aside class="sidebar">
   {% if site.page_asides.size %}
@@ -40,5 +43,4 @@ layout: default
   {% endif %}
 </aside>
 {% endunless %}
-
-oh hai 2
+-->

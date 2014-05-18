@@ -12,7 +12,7 @@ carrying heavy rucksacks up and down hills.  It's a brilliant way to keep fit;
  beats the pants out of your average gym membership and you get some cracking 
 views along the way.
 
-{% img center /images/moelfamauimage.jpg 800 Moel Famau %}
+{% img center /images/moelfamauimage.jpg Moel Famau %}
 
 I'm lucky enough to be situated less than an hour away from the North Wales
 Clwydian hill range, and an hour more from the west Welsh cost, Snowdownia, the

@@ -21,21 +21,50 @@
   margin: auto;
   width: 100%;
 }
-.hills-icon {
+.ui {
   position: fixed;
-  top: 64px;
+  top: 10px;
   left: 10px;
-  width: 44px;
-  height: 44px;
   z-index: 700;
-  background-color: #333332;
   text-align: center;
   border: 0;
 
-  img {
-    border: none;
-    width: 25px;
-    height: 25px;
-    margin-top: 9px;
+  li {
+    display: inline;
+    z-index: 700;
+    text-align: center;
+    border: 0;
+
+    a{
+      display: inline-block;
+    width: 44px;
+    height: 44px;
+    background-color: #333332;
+
+    img {
+      border: none;
+      width: 25px;
+      height: 25px;
+      margin-top: 9px;
   }
 }
+}
+}
+//.hills-icon {
+//  //position: fixed;
+//  //top: 64px;
+//  //left: 10px;
+//  width: 44px;
+//  height: 44px;
+//  z-index: 700;
+//  background-color: #333332;
+//  text-align: center;
+//  border: 0;
+//
+//  img {
+//    border: none;
+//    width: 25px;
+//    height: 25px;
+//    margin-top: 9px;
+//}
+//}

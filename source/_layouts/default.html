@@ -4,13 +4,19 @@
 <!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 {% include head.html %}
-  <body>
+<body>
+  <ul class="ui">
+    <li>
     <a href="/" class="home-icon">
       <img src="/images/home.png"/>
     </a>
+    </li>
+    <li>
     <a href="/outonthehills/index.html" class="hills-icon">
       <img src="/images/hill.png"/>
     </a>
+    </li>
+  </ul>
     {{ content | expand_urls: root_url }}
     {% include footer.html %}
   </body>

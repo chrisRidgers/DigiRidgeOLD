@@ -30,4 +30,4 @@ earned dosh for charity.  If you're interested in donating, the best place to do
  so would be at the Virgin Money Giving page 
 [here](http://uk.virginmoneygiving.com/team/gnd).
 
-
+{{ 'hills' | image_list }}

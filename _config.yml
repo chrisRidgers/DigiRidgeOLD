@@ -103,3 +103,19 @@ facebook_like: false
 gravatar_email: studentjester42@gmail.com
 
 include: ["google4d272c16f255922e.html"]
+
+# mini_magick
+
+mini_magick:
+ hills_thumbnail:
+  source: images/galleries/hills
+  destination: images/galleries/hills/thumbs
+  commands:
+   - thumbnail: "140x140^"
+   - crop: "140x140-0x0"
+ hills_medium:
+  source: images/galleries/hills
+  destination: images/galleries/hills/medium
+  commands:
+   - resize: "600x400"
+

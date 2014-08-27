@@ -7,6 +7,6 @@ sharing: true
 footer: true
 ---
 <object data="/assets/cv_10.pdf" width=100% height=800>
-<p margin-top:128px>Your web browser doesn't have a PDF plugin.  Instead you can download the PDF 
+<p margin-top=128px>Your web browser doesn't have a PDF plugin.  Instead you can download the PDF 
 file directly <a href="/assets/cv_10.pdf">here</a>.</p>
 </object>

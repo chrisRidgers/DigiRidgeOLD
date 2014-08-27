@@ -7,4 +7,9 @@ sharing: true
 footer: true
 ---
 
-<embed src="/assets/cv_10.pdf" width=100% height=800>
+<object data="/assets/cv_10.pdf" width=100% height=800>
+
+Your web browser doesn't have a PDF plugin.  Instead you can download the PDF 
+file directly [here](/assets/cv_10.pdf).
+
+</object>

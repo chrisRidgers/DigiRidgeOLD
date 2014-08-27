@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "index"
+title: "Chris Ridgers' CV"
 date: 2014-08-27 09:22
 comments: true
 sharing: true

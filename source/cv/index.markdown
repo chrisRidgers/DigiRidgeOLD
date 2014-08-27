@@ -6,10 +6,9 @@ comments: true
 sharing: true
 footer: true
 ---
-<div height=128px></div>
 <object data="/assets/cv_10.pdf" width=100% height=800>
-
-Your web browser doesn't have a PDF plugin.  Instead you can download the PDF 
-file directly <a href="/assets/cv_10.pdf">here</a>.
-
+<div height=128px>
+</div>
+<p>Your web browser doesn't have a PDF plugin.  Instead you can download the PDF 
+file directly <a href="/assets/cv_10.pdf">here</a>.</p>
 </object>

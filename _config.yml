@@ -113,9 +113,53 @@ mini_magick:
   commands:
    - thumbnail: "140x140^"
    - crop: "140x140-0x0"
+ 
  hills_medium:
   source: images/galleries/hills
   destination: images/galleries/hills/medium
   commands:
    - resize: "600x400"
+ 
+ work_thumbnail:
+  source: images/galleries/work
+  destination: images/galleries/work/thumbs
+  commands:
+   - thumbnail: "140x140^"
+   - crop: "140x140-0x0"
+ 
+ work_full:
+  source: images/galleries/work
+  destination: images/galleries/work/full
+ 
+ grunt_thumbnail:
+  source: images/galleries/grunt
+  destination: images/galleries/grunt/thumbs
+  commands:
+   - thumbnail: "140x140^"
+   - crop: "140x140-0x0"
+ 
+ grunt_full:
+  source: images/galleries/grunt
+  destination: images/galleries/grunt/full
 
+ redHood_thumbnail:
+  source: images/galleries/redHood
+  destination: images/galleries/redHood/thumbs
+  commands:
+   - thumbnail: "140x140^"
+   - crop: "140x140-0x0"
+ 
+ redHood_full:
+  source: images/galleries/redHood
+  destination: images/galleries/redHood/full
+ 
+ fireman_thumbnail:
+  source: images/galleries/fireman
+  destination: images/galleries/fireman/thumbs
+  commands:
+   - thumbnail: "140x140^"
+   - crop: "140x140-0x0"
+ 
+ fireman_full:
+  source: images/galleries/fireman
+  destination: images/galleries/fireman/full

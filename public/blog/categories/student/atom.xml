@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Student | DigiRidge]]></title>
+  <link href="http://www.chris.digiridge.co.uk/blog/categories/student/atom.xml" rel="self"/>
+  <link href="http://www.chris.digiridge.co.uk/"/>
+  <updated>2014-10-05T00:52:44+01:00</updated>
+  <id>http://www.chris.digiridge.co.uk/</id>
+  <author>
+    <name><![CDATA[Chris Ridgers]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Well Colour Me Employed!]]></title>
+    <link href="http://www.chris.digiridge.co.uk/blog/2014/10/04/well-colour-me-employed/"/>
+    <updated>2014-10-04T19:44:57+01:00</updated>
+    <id>http://www.chris.digiridge.co.uk/blog/2014/10/04/well-colour-me-employed</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve just finished my first week working at
+<a href="http://studiomashbo.com" title="Studio Mashbo">Studio Mashbo</a> and for the first time
+in nearly 2-3 weeks I&rsquo;ve had a chance to just sit down and breathe.  True
+financial independence is within arms reach, all I have to do is the thing that
+I&rsquo;ve just spent 3 years studying and obtained a degree in.  No problem?</p>
+
+<!-- more -->
+
+
+<p><img class="center" src="/images/noideawhatimdoing.jpg" title="More applicable than you might think!" ></p>
+
+<p>After graduation and the cleanup of bits and bobs from university, I&rsquo;d moved
+back to Rhewl where there was complete lack of train travel and a restrictive
+bus transport system.  I had planned to find a job before committing to such
+expenses as rent, water, elecky etc. but suddenly I was faced with this
+logistical nightmare; if I got an interview, how on earth would I get to it?
+Let alone that first week of work assuming I got the position.</p>
+
+<p>After much pestering from Sam and scraping of funds from various savings, we
+arrived in Liverpool:  Jobless, bedless (but not homeless) and scared !@#?less.
+We were in the undesirable predicament of no income and bills to pay;  Sure I&rsquo;d
+paid our 6 months rent in advance, but the master plan consisted of <em>&ldquo;&hellip;the
+bills can come out of my overdraft and in the mean time I&rsquo;ll get a job&hellip;&rdquo;</em></p>
+
+<p>Not the most wonderful of plans I&rsquo;ll admit however three years on a campus
+university has meant that driving lessons were never particularly high on my
+priorities list.  Sure I can see the value of a driving licence but I simply had
+ other things to spend my money on.  Like food.</p>
+
+<p>Sam, assuming the role of worry-er, soon tired of my lack of progress in the
+graduate job market and issued me an ultimatum; get a job before the 2 month
+mark or start applying to part time temporary roles in other sectors such as
+retail and service (a part of my life that I have long since considered over).</p>
+
+<p>Then Mashbo happened.  And it happened quick.  I stumbled across a job listing
+for a Junior PHP developer on their blog.  Appreciating the &ldquo;feel&rdquo; the website
+gave me and their recent involvement with <a href="http://www.thecalmzone.net" title="Campaign Against Living Miserably">CALM</a> I decided that despite a
+distinct lack experience with PHP I was going to apply anyway.  It also helped
+that I had some basic experience with some of the more extra-curricular
+requirements for the role; notably SASS and Git.  If you&rsquo;re not already, start
+using Git immediately.  You will only benefit.</p>
+
+<p>Very soon after I was asked to come into an interview, which I (quite correctly)
+ put back as far as possible to give me time to review everything I could in
+preparation for the role.  I was in regular contact with the studio, requesting
+some direction in terms of reading for the technologies they used in their day
+to day work.</p>
+
+<p>The interview itself went rather well.  I inevitably had to admit that my PHP
+skills were rather lacking.  But overall it seemed that they were much more
+interested in who I was, rather than how well I knew any particular language.</p>
+
+<p>Half a week later I was being offered the role. Oh holy luftwaffles.</p>
+
+<p>Then came the horrible realisation that I am now employed to develop public
+facing web applications.  In PHP. And I know nothing.</p>
+
+<p>The <a href="http://www.simple.wikipedia.org/wiki/Dunning-Kruger_effect" title="DK Effect">Dunning-Kruger Effect</a> is this wonderfully horrible psychology effect
+where your study and experience of a domain leads you to realise how much
+material there is that you don&rsquo;t know.  Practically this is quite useful, it
+opens up the doors for future research and learning, points you in a multitude
+of directions for self development.  But in regards to the here and now?  It&rsquo;s
+pretty bad.  Imagine going into an interview for a role with only an awareness
+of how much stuff you don&rsquo;t know, and that you know enough to know that chances
+are you need to know most of it in order to effectively carry out the role
+you&rsquo;re interviewing for.  Got that?  Now imagine you get the role and suddenly
+you&rsquo;re being paid thousands of pounds a year to do the thing that you know you
+don&rsquo;t know enough about to do.  There&rsquo;s no time for research and learning: you
+start next week.  Pass me the paper bag I&rsquo;m about to be sick.</p>
+
+<p>Well a week and half later and I&rsquo;ve not been fired.  I&rsquo;m still painfully aware
+of the holes in my brain, but now I&rsquo;m working pretty much none stop to fill
+them.  To not let the team down, to feel like I&rsquo;ve earned my wage, to not be the
+ guy that came into an interview and cheated his way into a position he
+didn&rsquo;t deserve. It&rsquo;s been a cracker of a week, but that&rsquo;s for another post.  For
+ now I&rsquo;m happy just to have gotten to my first weekend without breaking
+something.  That I know of&hellip; I should probably get back to my studies.</p>
+]]></content>
+  </entry>
+  
+</feed>
